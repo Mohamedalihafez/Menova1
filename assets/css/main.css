@@ -3044,6 +3044,20 @@ span.comment-date {
   margin-right: 5px;
 }
 
+.btn-resend {
+  background-color: #F3F4FA;
+  color: var(--unnamed-color-1a237e);
+text-align: left;
+font: normal normal bold 16px/21px Roboto;
+letter-spacing: 0px;
+color: #1A237E;
+opacity: 1;
+}
+.btn-resend:hover {
+  background-color: #DADEF6;
+  border: none;
+}
+
 /* -----------------------------------------------------------------------------
 
 # Cart Banner Styles
